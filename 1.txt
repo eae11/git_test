@@ -2,4 +2,4 @@ abc
 xiugai
 666
 呵33
-create new branch
+Creating a new branch is quick AND simple.
