@@ -1,6 +1,0 @@
-abc
-xiugai
-666
-呵33
-Creating a new branch is quick  simple.修复了bug bug2
-我是dev
