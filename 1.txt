@@ -1,5 +1,1 @@
-now
-master
-dev1
-dev2
 v1
